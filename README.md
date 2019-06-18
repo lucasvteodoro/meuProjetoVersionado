@@ -1,2 +1,2 @@
 # meuProjetoVersionado
-Meu Projeto em Pythono
+Meu Projeto em Python
